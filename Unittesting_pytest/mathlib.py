@@ -4,3 +4,7 @@ def calc_total(a, b):
 
 def calc_multiply(a, b):
     return a * b
+
+
+def cal_square(num):
+    return num * num
