@@ -11,3 +11,4 @@ python -m test
 py.test
 pytest -v
 pytest -v -rxs (to check why tests are skipped)
+pytest --capture=no
